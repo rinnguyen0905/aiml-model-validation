@@ -5,11 +5,11 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![VTI](https://img.shields.io/badge/VTI-AIML%20Course-red)](https://vti.com.vn)
+[![Author](https://img.shields.io/badge/Author-Rinez-blue)](https://github.com/rinnguyen0905)
 
 Khung công tác toàn diện để thẩm định và kiểm tra mô hình AI/ML trước khi triển khai production. Toolkit giáo dục này bao gồm 5 khía cạnh quan trọng của việc validation mô hình với ví dụ thực tế về mô hình tín dụng.
 
-Framework này được phát triển đặc biệt cho khóa học VTI AI/ML Full Course, cung cấp trải nghiệm thực hành về việc validation mô hình machine learning theo chuẩn công nghiệp.
+Framework này được phát triển bởi Rinez, cung cấp trải nghiệm thực hành về việc validation mô hình machine learning theo chuẩn công nghiệp.
 
 ---
 
@@ -30,7 +30,7 @@ Framework này được phát triển đặc biệt cho khóa học VTI AI/ML Fu
 
 ## 🎯 Tổng quan
 
-Repository này chứa framework validation mô hình AI/ML hoàn chỉnh được phát triển cho khóa học VTI AI/ML Full Course. Framework này thể hiện các best practices cho việc audit và validation mô hình machine learning trên nhiều chiều độ khác nhau.
+Repository này chứa framework validation mô hình AI/ML hoàn chỉnh được phát triển bởi Rinez. Framework này thể hiện các best practices cho việc audit và validation mô hình machine learning trên nhiều chiều độ khác nhau.
 
 Với sự gia tăng của việc ứng dụng AI/ML trong các lĩnh vực quan trọng như tài chính, y tế, và giáo dục, việc đảm bảo chất lượng và độ tin cậy của mô hình trước khi triển khai là cực kỳ quan trọng.
 
@@ -48,7 +48,7 @@ Với sự gia tăng của việc ứng dụng AI/ML trong các lĩnh vực quan
 
 ### Tải Repository về máy
 ```bash
-git clone https://github.com/your-username/aiml-model-validation.git
+git clone https://github.com/rinnguyen0905/aiml-model-validation.git
 cd aiml-model-validation
 ```
 
@@ -254,23 +254,23 @@ Framework validation tạo ra dashboard toàn diện hiển thị:
 
 ## 🏆 Giá trị Giáo dục
 
-### Dành cho Sinh viên:
+### Dành cho Người học:
 
 - **Trải nghiệm Thực hành**: Quy trình validation mô hình thực tế
 - **Tình huống Thực tế**: Use case mô hình tín dụng 
 - **Best Practices**: Kỹ thuật validation theo chuẩn công nghiệp
 - **Học tập Trực quan**: Biểu đồ và dashboard tương tác
 
-### Dành cho Giảng viên:
+### Dành cho Nhà phát triển:
 
-- **Sẵn sàng Sử dụng**: Kế hoạch bài giảng hoàn chỉnh trong Jupyter notebook
+- **Sẵn sàng Sử dụng**: Framework hoàn chỉnh trong Jupyter notebook
 - **Có thể Tùy chỉnh**: Dễ dàng modify cho các use case khác nhau  
 - **Toàn diện**: Bao phủ tất cả khía cạnh validation chính
 - **Hỗ trợ Hai ngôn ngữ**: Nội dung tiếng Việt và tiếng Anh
 
 ### Kết quả Học tập:
 
-Sau khi hoàn thành tutorial này, sinh viên sẽ có thể:
+Sau khi hoàn thành tutorial này, người học sẽ có thể:
 
 1. ✅ Triển khai pipeline validation mô hình toàn diện
 2. ✅ Đánh giá tính công bằng của mô hình và phát hiện bias
@@ -359,16 +359,15 @@ Chúng tôi hoan nghênh sự đóng góp từ cộng đồng! Đây là cách b
 
 ### Nhận Trợ giúp
 
-- **📧 Email**: support@vti.com.vn
-- **💬 Issues**: [GitHub Issues](https://github.com/your-username/aiml-model-validation/issues)
-- **📖 Tài liệu**: [Wiki](https://github.com/your-username/aiml-model-validation/wiki)
-- **🎓 Khóa học VTI**: [AI/ML Full Course](https://vti.com.vn/aiml-course)
+- **📧 Email**: nqhuy0905@gmail.com
+- **💬 Issues**: [GitHub Issues](https://github.com/rinnguyen0905/aiml-model-validation/issues)
+- **📖 Tài liệu**: [Wiki](https://github.com/rinnguyen0905/aiml-model-validation/wiki)
+- **👤 Tác giả**: Rinez - AI/ML Developer & Educator
 
 ### Lời cảm ơn
 
-- **VTI Education**: Cung cấp khung framework giáo dục
 - **Cộng đồng Open Source**: Các thư viện tuyệt vời được sử dụng
-- **Sinh viên & Giảng viên**: Phản hồi và cải thiện
+- **Người học & Nhà phát triển**: Phản hồi và cải thiện
 
 ---
 
@@ -379,7 +378,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### MIT License Summary
 
 ```
-Copyright (c) 2025 VTI Education
+Copyright (c) 2025 Rinez
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -418,10 +417,10 @@ copies or substantial portions of the Software.
 
 Nếu bạn thấy project này hữu ích, xin hãy cho chúng tôi một star! Sự hỗ trợ của bạn giúp chúng tôi cải thiện và duy trì tài nguyên giáo dục này.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/aiml-model-validation&type=Date)](https://star-history.com/#your-username/aiml-model-validation&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=rinnguyen0905/aiml-model-validation&type=Date)](https://star-history.com/#rinnguyen0905/aiml-model-validation&Date)
 
 ---
 
 **Chúc bạn Validation vui vẻ! 🎉**
 
-*Được tạo với ❤️ bởi Đội ngũ VTI Education*
+*Được tạo với ❤️ bởi Rinez*
